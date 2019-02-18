@@ -50,7 +50,7 @@ MANDATORY
 
 1. Open a terminal type the commands to clone the repository.
 fabric-sample folder:
-github.com/hyperledger/fabric-samples
+git clone https://github.com/hyperledger/fabric-samples
 blockchain-training-labs:
 git clone https://github.com/khrandm/blockchain-training-labs
 2. Open the folder you cloned named blockchain-training-labs and copy the folder named supply and chaincode then paste it to the folder you also cloned named fabric-samples and merge existing files.
